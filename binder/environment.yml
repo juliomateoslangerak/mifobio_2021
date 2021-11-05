@@ -1,0 +1,30 @@
+name: omero-cellprofiler4
+channels:
+  - defaults
+  - anaconda
+  - bioconda
+  - conda-forge
+dependencies:
+  - h5py
+  - matplotlib
+  - pandas
+  - pip
+  - python==3.8.*
+  - omero-py
+  - openjdk
+  - conda-forge::wxpython==4.1.0
+  - imageio
+  - inflect
+  - Jinja2
+  - mahotas
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - six
+  - mysqlclient==1.4.6
+  - pip:
+    - ome-zarr
+    - omero-metadata
+    - omero-cli-duplicate
+    - numpy
+    - git+https://github.com/CellProfiler/CellProfiler.git@v4.1.3
