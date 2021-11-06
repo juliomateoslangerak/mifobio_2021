@@ -13,9 +13,7 @@ The links that will be used during the workshop are the following:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliomateoslangerak/mifobio_2021.git/HEAD)
 
-- Plan B: MyBinder link for the analysis of IDR002 dataset
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/omero-guide-cellprofiler/master?filepath=notebooks/idr0002.ipynb)
+- Plan B: MyBinder link for the analysis of IDR002 dataset: https://github.com/ome/omero-guide-cellprofiler/
 
 - Running ImageJ macros on OMERO datasets: https://github.com/ppouchin/batch-omero-plugin/releases
 
