@@ -17,6 +17,8 @@ The links that will be used during the workshop are the following:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/omero-guide-cellprofiler/master?filepath=notebooks/idr0002.ipynb)
 
+- Running ImageJ macros on OMERO datasets: https://github.com/ppouchin/batch-omero-plugin/releases
+
 ### To read more
 - Everything about FAIR https://www.go-fair.org
 - OMERO website https://www.openmicroscopy.org
