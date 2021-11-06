@@ -7,6 +7,8 @@ The links that will be used during the workshop are the following:
 
 - Our OMERO server https://bioimage.france-bioinformatique.fr/demo-mifobio2021
 - Example published dataset https://omero.lifesci.dundee.ac.uk/pub/schleicher-et-al-2017
+- The IDR repository https://idr.openmicroscopy.org
+- Mybinder site: https://mybinder.org
 - Plan A: MyBinder link for analysing our data
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliomateoslangerak/mifobio_2021.git/HEAD)
@@ -17,4 +19,5 @@ The links that will be used during the workshop are the following:
 
 ### To read more
 - Everything about FAIR https://www.go-fair.org
+- OMERO website https://www.openmicroscopy.org
 - Official OMERO guides https://omero-guides.readthedocs.io/en/latest/
