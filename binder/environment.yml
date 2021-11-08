@@ -23,6 +23,7 @@ dependencies:
   - six
   - mysqlclient==1.4.6
   - pip:
+    - ezomero
     - ome-zarr
     - omero-metadata
     - omero-cli-duplicate
